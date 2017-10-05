@@ -1,0 +1,16 @@
+django
+djangorestframework
+django-rest-framework-mongoengine
+mongoengine
+textblob
+python-dateutil
+coreapi
+pymongo==2.7
+TwitterAPI
+django-cors-headers
+google-api-python-client==1.6.2
+beautifulsoup4
+django-oauth-toolkit
+django-crontab
+mysql-python
+isodate
